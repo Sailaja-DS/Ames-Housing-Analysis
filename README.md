@@ -1,7 +1,5 @@
-# Ames-Housing-Analysis
-Initial analysis of Ames data and predicting the House prices based on fixed and renovatable characteristics of the house
 
- Project 3: Regression and classification with housing data
+Project 3: Regression and classification with housing data
 Business Case
 You work for a real estate company interested in using data science to determine the best properties to buy and re-sell. Specifically, your company would like to identify the characteristics of residential houses that estimate the sale price and the cost-effectiveness of doing renovations.
 
